@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mahdis
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React.js
+- 🌱 I’m a React.js Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 my email is Mohadeseh.zeynabi@gmail.com
 
