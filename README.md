@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Mahdis
-- 🌱 I’m a React.js Developer
-- 💞️ I’m looking to collaborate on projects
-- 📫 my email is Mohadeseh.zeynabi@gmail.com
+- 👩‍💻 Hi, I'm Mahdis
+- 🎓 B.Sc. in Computer Science – Shahid Beheshti University
+- 🌐 React.js Developer – I build fast, responsive, and elegant web applications.
+- 🤝 I'm open to collaborating on impactful frontend projects.
+- 📬 Reach me at: mohadeseh.zeynabi@gmail.com
+
 
 
 
