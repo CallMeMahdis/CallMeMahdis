@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mahdis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F1314A&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mahdis" alt="Typing SVG" />
 </p>
 
 🎓 **B.Sc. in Computer Science** – Shahid Beheshti University  
