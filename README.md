@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mahdis
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mahdis" alt="Typing SVG" />
+</p>
 
 🎓 **B.Sc. in Computer Science** – Shahid Beheshti University  
 🌐 **Frontend Developer** – I build fast, responsive, and elegant web applications using modern technologies.  
