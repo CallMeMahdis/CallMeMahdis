@@ -13,8 +13,12 @@
 - **Languages & Frameworks:**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![React.ts](https://img.shields.io/badge/-React.ts-3178C6?style=flat&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **State Management & Data Fetching:**  
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  
+  ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)  
+  ![Zustand](https://img.shields.io/badge/-Zustand-181717?style=flat)
 
 - **Styling:**  
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
