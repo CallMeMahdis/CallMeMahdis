@@ -27,7 +27,6 @@
   ![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 
 - **Animation & Interaction:**
-  
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black&utm_source=chatgpt.com)
   ![Parallax.js](https://img.shields.io/badge/Parallax.js-222222?style=flat&logo=javascript&logoColor=F7DF1E&utm_source=chatgpt.com)
 
