@@ -30,6 +30,9 @@
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)  
   ![Parallax.js](https://img.shields.io/badge/Parallax.js-222222?style=flat&logo=javascript&logoColor=F7DF1E)
 
+- **Forms & Validation:**  
+  ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)  
+  ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 
 - **Tools:**  
